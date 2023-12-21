@@ -1,16 +1,12 @@
 # Password-Gen
 
 ## Description
-- This is an unfinished password generator.
-- i wanted to show and prove the improvements in my coding.
-- though determination and hard work I will never have a assignment come out this bad again.
-- I have realized javascript if going to be harder than I though
+- This is a password generator.
+- It will generate a password based off your input and how secure you'd like it to be.
+- The generator will have almost all symbols, numbers, and letters are used. 
+- Very user friendly, and visually appealing.
 
 ## Usage 
-Use this how ever you see fit as it does not work. Maybe try to fix my mistakes. if I ever have the time I will come back and redo this assignment.
-
-## Credits 
-N/A
+Use this password generator to create new passwords ranging from 8 to 128 characters. User can also add symbols, numbers, and wether or not hey would just like upper or lower case letters. Or both.
 
 ## Screen shots
-It is basically no different from the starter code.
